@@ -39,6 +39,19 @@
             //int genre2 = (int)Genre.Science;
             //Console.WriteLine(genre2);
             #endregion
+            #region Question06
+            ///*Given int genreNumber=1;,cast it into a Genre value and print the result.*/
+            //int genreNumber = 1;
+            //if (Enum.IsDefined(typeof(Genre), genreNumber))
+            //{
+            //    Genre genre = (Genre)genreNumber;
+            //    Console.WriteLine(genre);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("This number is out of the numbers of Genre!");
+            //}
+            #endregion
         }
     }
 }
