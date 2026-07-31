@@ -52,6 +52,12 @@
             //    Console.WriteLine("This number is out of the numbers of Genre!");
             //}
             #endregion
+            #region Question07
+            ///*Given Genre genre=Genre.Fiction;,convert it into a string using ToString(),
+            // and print it.*/
+            //Genre genre = Genre.Fiction;
+            //Console.WriteLine(genre.ToString());
+            #endregion
         }
     }
 }
