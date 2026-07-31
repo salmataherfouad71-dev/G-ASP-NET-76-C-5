@@ -29,6 +29,16 @@
             //book.Genre = Genre.Science;
             //Console.WriteLine(book.Genre); 
             #endregion
+            #region Question05
+            ///*Using the Genre enum above,print the underlying int value of 
+            // Genre.Fiction,Genre.NonFiction,Genre.Science by casting each to int.*/
+            //int genre0 = (int)Genre.Fiction;
+            //Console.WriteLine(genre0);
+            //int genre1 = (int)Genre.NonFiction;
+            //Console.WriteLine(genre1);
+            //int genre2 = (int)Genre.Science;
+            //Console.WriteLine(genre2);
+            #endregion
         }
     }
 }
