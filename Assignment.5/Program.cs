@@ -23,6 +23,12 @@
             //book.title = "Clean Code";
             //Console.WriteLine(book.title);
             #endregion
+            #region Question04
+            ///*Declare an enum Genre {Fiction,NonFiction,Science}.Add a Genre property to Book.
+            // assign it Genre.Science, and print it.*/
+            //book.Genre = Genre.Science;
+            //Console.WriteLine(book.Genre); 
+            #endregion
         }
     }
 }

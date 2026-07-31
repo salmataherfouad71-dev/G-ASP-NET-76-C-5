@@ -11,5 +11,11 @@ namespace Assignment._5
         private string password = "secret";
         internal int copiesInStock = 5;
         public string title;
+        private Genre genre;
+        public Genre Genre
+        {
+            get { return genre; }
+            set { genre = value; }
+        }
     }
 }
