@@ -12,6 +12,12 @@
             ///*It is a compile-time error because the private field is only accessable in 
             // the same class.*/
             #endregion
+            #region Question02
+            ///*Add an internal int copiesInStock=5;field to Book.Print it from Main.
+            // Does it compile?why?*/
+            //Console.WriteLine(book.copiesInStock);
+            ///*Yes,it compiles,because the internal field is accessable in the whole same project.*/
+            #endregion
         }
     }
 }
