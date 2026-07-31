@@ -18,6 +18,11 @@
             //Console.WriteLine(book.copiesInStock);
             ///*Yes,it compiles,because the internal field is accessable in the whole same project.*/
             #endregion
+            #region Question03
+            ///*Add a public string title; field to Book.Set it from Main.*/
+            //book.title = "Clean Code";
+            //Console.WriteLine(book.title);
+            #endregion
         }
     }
 }
